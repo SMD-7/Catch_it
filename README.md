@@ -1,3 +1,2 @@
 # Catch_it
-## Authors 
-[ Gajera Chintan] (https://github.com/gajerachitan9)
+[Gajera Chintan] (https://github.com/gajerachintan9)
