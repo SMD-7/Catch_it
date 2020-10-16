@@ -1,8 +1,8 @@
 Fundamental CP algorithms
 
-## Resources For Beginners for Starting CP
+## Resources For Beginners to Start competitive programming
 
-### Helpfull Blogs
+### Helpful Blogs
 
 - [Getting started with the sport of competitive programming](https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming)
 
