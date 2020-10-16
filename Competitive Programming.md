@@ -1,5 +1,11 @@
 Fundamental CP algorithms
 
+## Resources For Beginners to Start competitive programming
+
+### Helpful Blogs
+
+- [Getting started with the sport of competitive programming](https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming)
+
 # Algebra
 
 - [Binary Exponentiation](https://cp-algorithms.com/algebra/binary-exp.html)
